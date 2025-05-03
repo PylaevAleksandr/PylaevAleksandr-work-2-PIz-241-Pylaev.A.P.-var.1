@@ -1,0 +1,15 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net8.0</TargetFramework>
+    <RootNamespace>Задание_2_ПИз_241_Пылаев_А.П._вер1</RootNamespace>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Include="C:\Users\Professional\Desktop\Проекты по учебе\сессия 3\Задание 2 ПИз-241 Пылаев А.П. вер2.cs" Link="Задание 2 ПИз-241 Пылаев А.П. вер2.cs" />
+  </ItemGroup>
+
+</Project>
